@@ -1,16 +1,34 @@
-## Hi there 👋
+# Abdul Hanan
 
-<!--
-**a-hananop/a-hananop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Abdul%20Hanan&fontSize=40&fontColor=ffffff)
 
-Here are some ideas to get you started:
+## 👨‍💻 About
+AI Undergrad.  
+Code in C++, Java, HTML, CSS, JavaScript, Python.  
+Interested in Crypto, Web3 and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- C++
+- Java
+- Python
+- HTML, CSS, JS
+- Machine Learning
+- Blockchain / Web3
+
+---
+
+## 📫 Contact
+- X (Twitter): https://twitter.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=a-hananop&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com/?user=a-hananop&theme=tokyonight)
