@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="110" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I am an **AI Engineer** with experience in:
 
