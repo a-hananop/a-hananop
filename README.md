@@ -79,10 +79,8 @@ I build **practical, real-world AI solutions** and continuously explore **automa
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  
+  <a href="https://www.linkedin.com/in/abdul-hanan-saqlain-5a3103375">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
