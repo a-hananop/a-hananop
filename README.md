@@ -155,7 +155,7 @@ class AbdulHananSaqlain:
 
 <div align="center">
 
-> ### *"Turning data into intelligence and ideas into reality — one model at a time."*
+> ### *"Turning data into intelligence and ideas into reality."*
 > — **Abdul Hanan Saqlain**
 
 </div>
