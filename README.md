@@ -124,13 +124,13 @@ class AbdulHananSaqlain:
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+## <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=a-hananop&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6" alt="GitHub Trophies"/>
+## <img src="https://github-profile-trophy.vercel.app/?username=a-hananop&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6" alt="GitHub Trophies"/>
 
-</div>
+## </div>
 
----
+## --- 
 
 ## 🧠 Philosophy
 
