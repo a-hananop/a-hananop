@@ -7,7 +7,8 @@
 <div align="center">
 
 <!-- ══ HEADER BANNER ══ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:03080f,50:061828,100:03080f&height=220&section=header&text=Abdul%20Hanan%20Saqlain&fontSize=48&fontColor=00c6ff&animation=fadeIn&fontAlignY=60&desc=AI%20Engineer%20%7C%20Builder%20%7C%20Innovator&descAlignY=78&descColor=3d9abf&descSize=18" width="100%" alt="Abdul Hanan Saqlain"/>
+<img src="https://raw.githubusercontent.com/a-hananop/a-hananop/main/header.svg"
+     width="100%" alt="Abdul Hanan Saqlain — AI Engineer"/>
 
 <br/><br/>
 
