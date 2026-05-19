@@ -4,8 +4,9 @@
 
 <div align="center">
 
-<!-- ══ ANIMATED HEADER BANNER ══ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030a14,50:0d2137,100:030a14&height=200&section=header&text=Abdul%20Hanan%20Saqlain&fontSize=42&fontColor=00c6ff&animation=fadeIn&fontAlignY=55&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20NLP%20%7C%20Automation&descAlignY=75&descSize=16&descColor=3d9abf" width="100%" alt="Abdul Hanan Saqlain"/>
+<!-- ══ HEADER BANNER (original) ══ -->
+<img src="https://raw.githubusercontent.com/a-hananop/a-hananop/main/header.svg"
+     width="100%" alt="Abdul Hanan Saqlain — AI Engineer"/>
 
 <br/>
 
