@@ -16,13 +16,13 @@
 
 <br/><br/>
 
-<!-- ══ TYPING SVG ══ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=00C6FF&center=true&vCenter=true&width=520&lines=🤖+AI+Engineer;🧠+Generative+AI+Enthusiast;⚙️+Automation+Builder;📊+Data-Driven+Developer;🔗+NLP+%26+LLM+Specialist;🚀+Turning+Ideas+Into+Reality" alt="Typing SVG"/>
+<!-- ══ TYPING SVG — using herokuapp (reliable, always works) ══ -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=00C6FF&center=true&vCenter=true&width=520&lines=AI+Engineer;Generative+AI+Enthusiast;Automation+Builder;Data-Driven+Developer;NLP+%26+LLM+Specialist;Turning+Ideas+Into+Reality" alt="Typing SVG"/>
 
 <br/><br/>
 
 <!-- ══ STATUS BADGES ══ -->
-<img src="https://img.shields.io/badge/🟢_Available_for_opportunities-0a2a1a?style=flat-square&color=0a2a1a" alt="Status"/>
+<img src="https://img.shields.io/badge/Available_for_opportunities-brightgreen?style=flat-square&color=0a2a1a" alt="Status"/>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=a-hananop&style=flat-square&color=0d1f2d&label=Profile+Views" alt="Profile Views"/>
 &nbsp;
@@ -45,7 +45,7 @@
 
 <br/><br/>
 
-<!-- ══ ANIMATED SNAKE CONTRIBUTION GRAPH ══ -->
+<!-- ══ ANIMATED SNAKE — works after running the GitHub Action once ══ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-hananop/a-hananop/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-hananop/a-hananop/output/github-contribution-grid-snake.svg"/>
@@ -138,7 +138,7 @@ class AbdulHananSaqlain:
 
 <div align="center">
 
-<!-- ✅ FIXED: Using locally generated SVGs via GitHub Action (never breaks) -->
+<!-- ✅ FIXED: locally generated SVGs via GitHub Action — never breaks -->
 <img height="175" src="https://raw.githubusercontent.com/a-hananop/a-hananop/main/github-stats.svg" alt="GitHub Stats"/>
 &nbsp;
 <img height="175" src="https://raw.githubusercontent.com/a-hananop/a-hananop/main/top-langs.svg" alt="Top Languages"/>
@@ -212,7 +212,8 @@ class AbdulHananSaqlain:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030a14,50:0d2137,100:030a14&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=3D9ABF&center=true&vCenter=true&width=500&lines=⭐+Keep+Building+·+Keep+Learning+·+Keep+Growing+⭐" alt="Footer Typing"/>
+<!-- ══ FOOTER TYPING — using herokuapp (reliable, always works) ══ -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=3D9ABF&center=true&vCenter=true&width=500&lines=Keep+Building+%C2%B7+Keep+Learning+%C2%B7+Keep+Growing" alt="Footer Typing"/>
 
 </div>
 
@@ -220,8 +221,11 @@ class AbdulHananSaqlain:
 
 <!--
 ══════════════════════════════════════════════════════
-  GITHUB ACTION REQUIRED — saves stats as local SVGs
-  Create: .github/workflows/generate-stats.yml
+  GITHUB ACTION — .github/workflows/generate-stats.yml
+  Run manually once from Actions tab to generate:
+    - github-stats.svg
+    - top-langs.svg
+    - Snake animation (output branch)
 ══════════════════════════════════════════════════════
 
 name: Generate GitHub Stats
