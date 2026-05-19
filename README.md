@@ -45,12 +45,8 @@
 
 <br/><br/>
 
-<!-- ══ ANIMATED SNAKE — works after running the GitHub Action once ══ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-hananop/a-hananop/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a-hananop/a-hananop/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/a-hananop/a-hananop/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<!-- ══ PACMAN contribution animation — works instantly, zero setup ══ -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution animation"/>
 
 </div>
 
@@ -138,7 +134,7 @@ class AbdulHananSaqlain:
 
 <div align="center">
 
-<!-- ✅ FIXED: locally generated SVGs via GitHub Action — never breaks -->
+
 <img height="175" src="https://raw.githubusercontent.com/a-hananop/a-hananop/main/github-stats.svg" alt="GitHub Stats"/>
 &nbsp;
 <img height="175" src="https://raw.githubusercontent.com/a-hananop/a-hananop/main/top-langs.svg" alt="Top Languages"/>
