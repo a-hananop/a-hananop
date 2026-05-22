@@ -56,6 +56,7 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
+
 I'm an **AI Engineer** who turns ambitious ideas into working intelligent systems.
 I specialise in **Generative AI**, NLP pipelines, and smart automations —
 connecting raw data, intelligent models, and real-world applications that actually ship.
