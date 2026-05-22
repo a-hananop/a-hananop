@@ -54,7 +54,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="120" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 
 I'm an **AI Engineer** who turns ambitious ideas into working intelligent systems.
