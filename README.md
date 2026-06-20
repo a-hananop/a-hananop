@@ -2,6 +2,11 @@
 <!--             ABDUL HANAN SAQLAIN — GitHub Profile README          -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
+<a href="https://rankistan.dev">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fa-hananop&style=flat" alt="Rankistan rank badge">
+</a>
+
+
 <div align="center">
 
 <!-- ══ HEADER BANNER (original) ══ -->
