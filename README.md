@@ -57,11 +57,7 @@
 
 ---
 
-<br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/👨‍💻_About_Me-030a14?style=for-the-badge&color=00c6ff" alt="About Me"/>
-</div>
-<br/>
+## 👨💻 About Me
 
 <img align="right" width="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
