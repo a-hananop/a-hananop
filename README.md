@@ -164,11 +164,35 @@ class AbdulHananSaqlain:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=a-hananop&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa-hananop&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=00c6ff&label=Public%20Repos&color=030a14&labelColor=0d1f2d" alt="Repos"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa-hananop&query=%24.followers&style=for-the-badge&logo=github&logoColor=00c6ff&label=Followers&color=030a14&labelColor=0d1f2d" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fa-hananop&query=%24.following&style=for-the-badge&logo=github&logoColor=00c6ff&label=Following&color=030a14&labelColor=0d1f2d" alt="Following"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-Expert-00c6ff?style=for-the-badge&logo=openai&logoColor=white&labelColor=030a14" alt="AI Engineer"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-Builder-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=030a14" alt="LangChain"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-3d9abf?style=for-the-badge&logo=github&logoColor=white&labelColor=030a14" alt="Open Source"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-Specialist-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=030a14" alt="Python"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NLP-Practitioner-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=030a14" alt="NLP"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RAG-Developer-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=030a14" alt="RAG"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=030a14" alt="FastAPI"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-Captain-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=030a14" alt="Docker"/>
 
 </div>
 
