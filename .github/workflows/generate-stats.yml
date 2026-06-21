@@ -27,10 +27,16 @@ jobs:
         run: |
           curl -s "https://streak-stats.demolab.com/?user=a-hananop&theme=tokyonight&hide_border=true&background=030a14&stroke=00c6ff&ring=00c6ff&fire=3d9abf&currStreakNum=eaf6ff&sideNums=6ab8d8&currStreakLabel=3d9abf&sideLabels=3d9abf&dates=1e4a62&border_radius=12" -o streak-stats.svg
 
-      - name: Commit SVGs
+      - name: Generate 3D Contribution City
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit Files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-stats.svg top-langs.svg streak-stats.svg
-          git diff --cached --quiet || git commit -m "chore: refresh stats cards"
+          git add github-stats.svg top-langs.svg streak-stats.svg profile-3d-contrib
+          git diff --cached --quiet || git commit -m "chore: refresh stats cards and 3D city"
           git push
