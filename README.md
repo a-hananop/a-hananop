@@ -81,7 +81,10 @@ class AbdulHananSaqlain:
 
 ---
 
-## 🚀 Tech Stack
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hqgD6bocighA0dK1Cg/giphy.gif" width="35" align="center"> 
+  Tech Stack
+</h2>
 
 <div align="center">
 
