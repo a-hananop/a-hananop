@@ -55,7 +55,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 👨💻 About Me
 
@@ -79,6 +79,7 @@ class AbdulHananSaqlain:
 
 <br clear="right"/>
 
+<!-- Animated line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <h2 align="center">
@@ -123,7 +124,7 @@ class AbdulHananSaqlain:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## ⚡ What I Build
 
@@ -137,7 +138,7 @@ class AbdulHananSaqlain:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -155,7 +156,7 @@ class AbdulHananSaqlain:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📈 Contribution Graph
 
@@ -165,7 +166,7 @@ class AbdulHananSaqlain:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🏙️ My Contribution City
 
@@ -175,7 +176,7 @@ class AbdulHananSaqlain:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🧠 Philosophy
 
@@ -190,7 +191,7 @@ class AbdulHananSaqlain:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## Let's Connect
 
