@@ -148,7 +148,7 @@ class AbdulHananSaqlain:
 <br/><br/>
 
 <!-- ══ STREAK STATS ══ -->
-<img width="70%" src="https://streak-stats.demolab.com/?user=a-hananop&theme=tokyonight&hide_border=true&background=030a14&stroke=00c6ff&ring=00c6ff&fire=3d9abf&currStreakNum=eaf6ff&sideNums=6ab8d8&currStreakLabel=3d9abf&sideLabels=3d9abf&dates=1e4a62&border_radius=12" alt="GitHub Streak"/>
+<img width="70%" src="https://raw.githubusercontent.com/a-hananop/a-hananop/main/streak-stats.svg" alt="GitHub Streak"/>
 
 </div>
 
