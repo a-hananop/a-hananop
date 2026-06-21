@@ -164,13 +164,11 @@ class AbdulHananSaqlain:
 
 ---
 
-## 🏆 Profile Summary
+## 🏆 My Arsenal
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-hananop&theme=tokyonight" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-hananop&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a-hananop&theme=tokyonight" width="49%"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,tensorflow,pytorch,fastapi,docker,git,github,mongodb,mysql,postgres,supabase,vscode,linux&perline=8" alt="Skills"/>
 
 </div>
 
