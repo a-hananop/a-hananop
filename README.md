@@ -82,10 +82,7 @@ class AbdulHananSaqlain:
 <!-- Animated line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hqgD6bocighA0dK1Cg/giphy.gif" width="35" align="center"> 
-  Tech Stack
-</h2>
+## Tech Stack
 
 <div align="center">
 
@@ -124,9 +121,10 @@ class AbdulHananSaqlain:
 
 </div>
 
+<!-- Animated line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## ⚡ What I Build
+## What I Build
 
 <div align="center">
 
@@ -138,9 +136,10 @@ class AbdulHananSaqlain:
 
 </div>
 
+<!-- Animated line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -156,9 +155,10 @@ class AbdulHananSaqlain:
 
 </div>
 
+<!-- Animated line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -166,9 +166,10 @@ class AbdulHananSaqlain:
 
 </div>
 
+<!-- Animated line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## 🏙️ My Contribution City
+## My Contribution City
 
 <div align="center">
 
@@ -176,9 +177,10 @@ class AbdulHananSaqlain:
 
 </div>
 
+<!-- Animated line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## 🧠 Philosophy
+## Philosophy
 
 <div align="center">
 
@@ -191,6 +193,7 @@ class AbdulHananSaqlain:
 
 </div>
 
+<!-- Animated line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## Let's Connect
@@ -211,7 +214,8 @@ class AbdulHananSaqlain:
 
 </div>
 
----
+<!-- Animated line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <!-- ══ ANIMATED FOOTER ══ -->
 <div align="center">
@@ -223,7 +227,8 @@ class AbdulHananSaqlain:
 
 </div>
 
----
+<!-- Animated line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <!--
 ══════════════════════════════════════════════════════
