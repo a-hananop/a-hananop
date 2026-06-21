@@ -27,10 +27,14 @@ jobs:
         run: |
           curl -s "https://streak-stats.demolab.com/?user=a-hananop&theme=tokyonight&hide_border=true&background=030a14&stroke=00c6ff&ring=00c6ff&fire=3d9abf&currStreakNum=eaf6ff&sideNums=6ab8d8&currStreakLabel=3d9abf&sideLabels=3d9abf&dates=1e4a62&border_radius=12" -o streak-stats.svg
 
+      - name: Generate Trophies
+        run: |
+          curl -s "https://github-profile-trophy.vercel.app/?username=a-hananop&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" -o trophies.svg
+
       - name: Commit SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-stats.svg top-langs.svg streak-stats.svg
+          git add github-stats.svg top-langs.svg streak-stats.svg trophies.svg
           git diff --cached --quiet || git commit -m "chore: refresh stats cards"
           git push
