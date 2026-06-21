@@ -168,7 +168,7 @@ class AbdulHananSaqlain:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/a-hananop/a-hananop/main/trophies.svg" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=a-hananop&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
