@@ -44,6 +44,10 @@
 <text x="20" y="500.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#5ec8d8">.................................::...                   ....:............................</text>
 </svg>
 
+
+<!-- Animated line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--             ABDUL HANAN SAQLAIN — GitHub Profile README          -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
