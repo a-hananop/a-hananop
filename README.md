@@ -1,36 +1,5 @@
-<svg width="588" height="528" viewBox="0 0 588 528" xmlns="http://www.w3.org/2000/svg" role="img">
-<rect x="0.5" y="0.5" width="587" height="527" rx="8" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-<text x="24" y="36.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">............................................................</text>
-<text x="24" y="52.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">............................................................</text>
-<text x="24" y="68.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">......................::...........:::.:-...................</text>
-<text x="24" y="84.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">..................:...              ..  :.-..::.............</text>
-<text x="24" y="100.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">...............:..                ....   ..  ...::..........</text>
-<text x="24" y="116.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">............::.                   ...:  ..       ..:........</text>
-<text x="24" y="132.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">..........::.           ...   ..... ..  ...  .      .:......</text>
-<text x="24" y="148.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">.........:.           ....  .   ..-:..  ..   ..       ::....</text>
-<text x="24" y="164.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">.......::           ==:. . ....   .=:.  ...            .:...</text>
-<text x="24" y="180.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">......::           .+-        :=+: --.  ..   .        .. -..</text>
-<text x="24" y="196.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">.....::..          :=: .:=*###%@%%*=-.  ...  ..    ...:. -=.</text>
-<text x="24" y="212.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">.....-...         .:#- =@@@@@#+:..-==*= ...        :-::: :+-</text>
-<text x="24" y="228.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">....-:....          -= =#-.  =    :+%** ....  . .  .:.:: :-=</text>
-<text x="24" y="244.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">...:=:::.....        -=:.    %@+-=+#@%= ....    .. .:.:. .::</text>
-<text x="24" y="260.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">...-+==-:::::...    .:#+==-==%%#++--==: ....    ..  ..:. .::</text>
-<text x="24" y="276.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">...=*+=-::::::....  . -#*%%+*=       -=.....     .   -+  .:.</text>
-<text x="24" y="292.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">...=*+=-:::::......... -%@= %#      ..--::..    ...  .:   ::</text>
-<text x="24" y="308.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">...=*++===-::.......:.*%@@#:@@-     .....---:::...        .:</text>
-<text x="24" y="324.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">...-%**++=-::........-*%%@@@@#-            .:::::::.      ..</text>
-<text x="24" y="340.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">....%%+==---::.....  .+%@%##*=.                   .::.    ..</text>
-<text x="24" y="356.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">....+%+=--::::::. .:--+**@=                 .       .:     .</text>
-<text x="24" y="372.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">.....++=--::::...-=-:::..:..            .  .         ::    :</text>
-<text x="24" y="388.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">.....:+--::::...**.   .........          ..          .:   :.</text>
-<text x="24" y="404.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">......:-:::....*+:.   .:. ......                     ..  ::.</text>
-<text x="24" y="420.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">.......:-:... =#...     :-..                        .....:.:</text>
-<text x="24" y="436.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">.........-:..:*.. .     .=    ....                 ....:--:.</text>
-<text x="24" y="452.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">..........::.==          .: .....                 .....:--:.</text>
-<text x="24" y="468.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">............:=-           ::...                  ..........:</text>
-<text x="24" y="484.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">...............:..         -.                  .............</text>
-<text x="24" y="500.0" xml:space="preserve" font-family="'Courier New', ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#5ec8d8">.................::..       .               ................</text>
-</svg>
+<img src="./profile_ascii.svg" width="500" alt="Abdul - ASCII portrait" />
+
 
 <!-- Animated line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
