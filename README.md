@@ -1,4 +1,6 @@
-<img src="./profile_ascii.svg" width="500" alt="Abdul - ASCII portrait" />
+<p align="center">
+  <img src="./profile_ascii.svg" width="500" alt="Abdul - ASCII portrait">
+</p>
 
 
 <!-- Animated line -->
