@@ -262,7 +262,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-- name: Generate Stats Card
+      - name: Generate Stats Card
         run: |
           curl -sS --fail --retry 5 --retry-delay 10 --retry-all-errors "https://github-readme-stats-flame-five-88.vercel.app/api?username=a-hananop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030a14&title_color=00c6ff&icon_color=3d9abf&text_color=6ab8d8&border_radius=12&rank_icon=github" -o github-stats.svg
 
