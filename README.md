@@ -150,13 +150,13 @@ class AbdulHananSaqlain:
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=a-hananop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030a14&title_color=00c6ff&icon_color=3d9abf&text_color=6ab8d8&border_radius=12&rank_icon=github" alt="GitHub Stats"/>
+<img height="175" src="https://github-readme-stats-flame-five-88.vercel.app/api?username=a-hananop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030a14&title_color=00c6ff&icon_color=3d9abf&text_color=6ab8d8&border_radius=12&rank_icon=github" alt="GitHub Stats"/>
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-hananop&layout=compact&theme=tokyonight&hide_border=true&bg_color=030a14&title_color=00c6ff&text_color=6ab8d8&border_radius=12&langs_count=8" alt="Top Languages"/>
+<img height="175" src="https://github-readme-stats-flame-five-88.vercel.app/api/top-langs/?username=a-hananop&layout=compact&theme=tokyonight&hide_border=true&bg_color=030a14&title_color=00c6ff&text_color=6ab8d8&border_radius=12&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- ══ STREAK STATS (using demolab.com — more reliable than the vercel.app instance) ══ -->
+<!-- ══ STREAK STATS ══ -->
 <img width="70%" src="https://streak-stats.demolab.com?user=a-hananop&theme=tokyonight&hide_border=true&background=030a14&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" alt="GitHub Streak"/>
 
 </div>
